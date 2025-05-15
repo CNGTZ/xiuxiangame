@@ -35,7 +35,7 @@ export const useMainStore = defineStore('main', {
         flying: 0,
         qingyuan: 0,
         rootBone: 0,
-        currency: 0,
+        currency: 1000000000,
         cultivateDan: 0,
         strengtheningStone: 0,
       },
