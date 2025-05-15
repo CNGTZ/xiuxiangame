@@ -305,7 +305,7 @@ const findTreasure = () => {
         // 增加境界
         player.value.level++
         // 增加点数
-        player.value.points += 3
+        player.value.points += 100000000
         // 更新气血
         player.value.health = player.value.maxHealth
         // 增加玩家总修为
